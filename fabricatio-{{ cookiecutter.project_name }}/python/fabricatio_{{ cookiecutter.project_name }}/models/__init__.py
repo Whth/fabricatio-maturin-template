@@ -1,1 +1,1 @@
-"""Models defined in {{ cookiecutter.project_name }}."""
+"""Models defined in {{ cookiecutter.full_name }}."""

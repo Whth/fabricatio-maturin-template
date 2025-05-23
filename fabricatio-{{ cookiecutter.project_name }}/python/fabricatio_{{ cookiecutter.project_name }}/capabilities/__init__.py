@@ -1,1 +1,1 @@
-"""Capabilities defined in {{ cookiecutter.project_name }}."""
+"""Capabilities defined in {{ cookiecutter.full_name }}."""

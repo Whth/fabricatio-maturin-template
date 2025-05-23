@@ -1,1 +1,1 @@
-"""Actions defined in {{ cookiecutter.project_name }}."""
+"""Actions defined in {{ cookiecutter.full_name }}."""

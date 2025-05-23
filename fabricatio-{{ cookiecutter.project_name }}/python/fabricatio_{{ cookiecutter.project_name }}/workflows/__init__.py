@@ -1,1 +1,1 @@
-"""Workflows defined in {{ cookiecutter.project_name }}."""
+"""Workflows defined in {{ cookiecutter.full_name }}."""

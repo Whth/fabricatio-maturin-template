@@ -1,1 +1,1 @@
-"""Rust bindings for the Rust API of {{ cookiecutter.project_name }}."""
+"""Rust bindings for the Rust API of {{ cookiecutter.full_name }}."""

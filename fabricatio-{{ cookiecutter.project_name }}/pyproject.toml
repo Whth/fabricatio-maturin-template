@@ -1,5 +1,5 @@
 [project]
-name = "fabricatio_{{ cookiecutter.project_name }}"
+name = "{{ cookiecutter.full_name }}"
 version = "0.1.0"
 description = "{{ cookiecutter.description }}"
 readme = "README.md"
@@ -20,7 +20,7 @@ build-backend = "maturin"
 
 [tool.maturin]
 python-source = "python"
-module-name = "fabricatio_{{ cookiecutter.project_name }}.rust"
+module-name = "{{  cookiecutter.package_name }}.rust"
 
 
 [project.urls]
