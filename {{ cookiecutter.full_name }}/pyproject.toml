@@ -13,6 +13,15 @@ dependencies = [
     "fabricatio-core"
 ]
 
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
+[tool.uv.sources]
+fabricatio-core = { workspace = true }
+
+
 
 [build-system]
 requires = ["maturin>=1.0,<2.0"]
