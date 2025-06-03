@@ -18,9 +18,6 @@ dev = [
     "pytest",
 ]
 
-[tool.uv.sources]
-fabricatio-core = { workspace = true }
-
 
 
 [build-system]
