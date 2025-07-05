@@ -20,12 +20,18 @@ This package is part of the `fabricatio` monorepo and can be installed as an opt
 
 ```bash
 pip install fabricatio[{{ cookiecutter.project_name }}]
+
+# or with uv
+# uv pip install fabricatio[full]
 ```
 
 Or install all components:
 
 ```bash
 pip install fabricatio[full]
+
+# or with uv
+# uv pip install fabricatio[full]
 ```
 
 ## 🔍 Overview
