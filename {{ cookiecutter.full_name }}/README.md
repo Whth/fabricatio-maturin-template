@@ -50,6 +50,4 @@ Core dependencies:
 
 ## 📄 License
 
-MIT – see [LICENSE](LICENSE)
-
-GitHub: [github.com/Whth/fabricatio](https://github.com/Whth/fabricatio)
+This project is licensed under the {{ cookiecutter.license }} License.
