@@ -26,7 +26,7 @@ pip install fabricatio[{{ cookiecutter.project_name }}]
 # uv pip install fabricatio[{{ cookiecutter.project_name }}]
 ```
 
-Or install `fabricatio-diff` along with all other components of `fabricatio`:
+Or install `{{ cookiecutter.full_name }}` along with all other components of `fabricatio`:
 
 ```bash
 pip install fabricatio[full]
