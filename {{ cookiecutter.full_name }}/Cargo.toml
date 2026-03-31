@@ -3,7 +3,7 @@ name = "{{ cookiecutter.full_name }}"
 edition = "2024"
 
 [lib]
-crate-type = ["cdylib"]
+crate-type = ["cdylib","rlib"]
 
 [dependencies]
 
